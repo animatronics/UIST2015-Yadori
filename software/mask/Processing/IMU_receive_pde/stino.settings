@@ -1,0 +1,12 @@
+{
+    "arduino_folder": "/Applications/Arduino.app", 
+    "baudrate": 4, 
+    "board": 21, 
+    "full_compilation": true, 
+    "line_ending": 3, 
+    "platform": 1, 
+    "platform_name": "Arduino AVR Boards", 
+    "serial_port": 7, 
+    "set_bare_gcc_only": false, 
+    "verify_code": true
+}
